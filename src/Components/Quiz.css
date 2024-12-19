@@ -1,0 +1,35 @@
+.question-title {
+    font-size: 24px;
+    color: #333;
+    margin: 0 0 1.5rem;
+    font-weight: bold;
+
+}
+
+
+.option-button {
+    display: block;
+    width: 100%;
+    padding: 8px 18px;
+    margin: 1em 0;
+    border: 1px solid rgba(110, 85, 73, 0.2);
+    border-radius: 16px;
+    font-size: 1rem;
+    background-color: transparent;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.option-button:hover {
+    background-color: #e6c200;
+}
+
+
+.quiz-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 8%;
+}

@@ -1,0 +1,56 @@
+body {
+  background-color: #fdfaf4; 
+  color: #333333;
+  
+}
+
+
+#root, .app-container {
+  margin: 0 auto;
+  padding: 0.5rem;  
+  font-family: 'Outfit', sans-serif !important;
+}
+
+
+.logo {
+  height: 1.27em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 12.5%;
+}
+
+
+.continue-button {
+  display: block;
+  padding: 8px 18px;
+  margin-top: 1rem;
+  border-radius: 16px;
+  background-color: transparent;
+  font-size: 1rem;
+  border: 1px solid rgba(110, 85, 73, 0.2);
+  transition: background-color 0.3s ease;
+}
+
+.continue-button:disabled{
+  border: 1px solid #ccc;
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.continue-button:not(:disabled):hover{
+  background-color: #e6c200;
+}
+
+.continue-button.active {
+  background-color: #e6c200;
+  cursor: pointer;
+}
+
+
