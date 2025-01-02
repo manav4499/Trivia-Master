@@ -5,15 +5,15 @@
 1) **Category Selection Screen** : Allow users to select from a list of five trivia categories. Each category should be displayed as a button.
 
 2) **Trivia Questions Screen** :
-      a) The app should fetch 5 trivia questions from the Open Trivia Database.
-      b) Display each question along with multiple answer options. Answer options should be presented as buttons.
-      c) Users must select an answer before they can proceed to the next question using a Continue button.
-      d) Each correct answer should increase the user’s score.
+      a) The app should fetch 5 trivia questions from the Open Trivia Database.<br>
+      b) Display each question along with multiple answer options. Answer options should be presented as buttons.<br>
+      c) Users must select an answer before they can proceed to the next question using a Continue button.<br>
+      d) Each correct answer should increase the user’s score.<br>
 
 
-3) **Results Screen**
-      a) After all questions are answered, display the user’s score out of 5.
-      b) Provide a Play Again button that resets the game to the category selection screen.
+4) **Results Screen**
+      a) After all questions are answered, display the user’s score out of 5.<br>
+      b) Provide a Play Again button that resets the game to the category selection screen.<br>
 
    
 ## Screenshot
