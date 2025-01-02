@@ -1,8 +1,10 @@
-# React + Vite
+# Trivia Master Application 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screenshot
 
-Currently, two official plugins are available:
+<img width=1440 alt="Category selection" src="Project photos/Screenshot 2025-01-02 100018.png"><img/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width=1440 alt="Questions page" src="Project photos/Screenshot 2025-01-02 100140.png"><img/>
+
+<img width=1440 alt="Results page" src="Project photos/Screenshot 2025-01-02 100253.png"><img/>
+
